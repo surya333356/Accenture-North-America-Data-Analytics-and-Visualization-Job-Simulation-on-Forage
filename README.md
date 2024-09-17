@@ -1,10 +1,10 @@
 # Social-Buzz-Project-of-Accenture-North-America-Data-Analysis-Job-Simulation
 
-# Project Type - Data Analysis and Visualisation with Excel
+## Project Type - Data Analysis and Visualisation with Excel
 
-# Contribution - Individual-SURYA SINGH
+## Contribution - Individual-SURYA SINGH
 
-# Project Summary -
+## Project Summary -
 
 Social Buzz was founded by two former engineers from a large social media conglomerate, one
 from London and the other from San Francisco. They left in 2008 and both met in San
